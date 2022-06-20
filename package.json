@@ -1,5 +1,5 @@
 {
-  "name": "[libraryName]",
+  "name": "action-tracker",
   "version": "0.0.0",
   "description": "",
   "cdn": "dist/index.umd.js",
@@ -49,15 +49,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/[repositoryOwner]/[repositoryName].git"
+    "url": "git+https://github.com/divye1995/action-tracker.git"
   },
   "keywords": [],
   "author": {
-    "name": "[authorFullName]"
+    "name": "Divye Marwah"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/[repositoryOwner]/[repositoryName]/issues"
+    "url": "https://github.com/divye1995/action-tracker/issues"
   },
-  "homepage": "https://github.com/[repositoryOwner]/[repositoryName]#readme"
+  "homepage": "https://github.com/divye1995/action-tracker#readme"
 }

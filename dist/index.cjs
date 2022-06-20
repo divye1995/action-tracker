@@ -1,6 +1,6 @@
 /*!
- * [libraryName] v0.0.0
- * (c) [authorFullName]
+ * action-tracker v0.0.0
+ * (c) Divye Marwah
  * Released under the MIT License.
  */
 

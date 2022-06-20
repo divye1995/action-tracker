@@ -1,6 +1,6 @@
-[libraryNameWithSpacesAndUpperCases]
+Action Tracker
 
-# [libraryNameWithSpacesAndUpperCases]
+# Action Tracker
 
 ## Table of contents
 
